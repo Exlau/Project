@@ -27,7 +27,6 @@
 <script>
     import TarBar from 'components/common/tarbar/TarBar'
     import TarBarItem from 'components/common/tarbar/TarBarItem'
-
     export default {
         name: "MainTarBar",
         components: {
@@ -37,5 +36,4 @@
 </script>
 
 <style scoped>
-
 </style>
